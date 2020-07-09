@@ -1,4 +1,4 @@
 # CNN_FromScratch
 CNN Course
-Week1
+# Week1
 Preactice 1
